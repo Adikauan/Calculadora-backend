@@ -16,9 +16,10 @@ namespace SKA.Calculator.Application.Commands.CalculateCommands.Calculate
 
         public async Task<string> Handle(CalculateCommand request, CancellationToken cancellationToken)
         {
+            CultureInfo culture = CultureInfoHelper.SetCultureInfo();
 
-            double result = CalculateHelper.CalculateValue(Double.Parse(request.Payload.FirstNumber, CultureInfo.InvariantCulture)
-                , double.Parse(request.Payload.SecondNumber, CultureInfo.InvariantCulture)
+            double result = CalculateHelper.CalculateValue(Double.Parse(request.Payload.FirstNumber, culture)
+                , double.Parse(request.Payload.SecondNumber, culture)
                 , request.Payload.Operation);
 
             await this.mediator.Send(new CreateHistoryCalculationsCommand(request.Payload.FirstNumber
