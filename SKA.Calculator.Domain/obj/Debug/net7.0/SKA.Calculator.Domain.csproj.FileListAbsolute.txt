@@ -1,0 +1,12 @@
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Domain\bin\Debug\net7.0\SKA.Calculator.Domain.deps.json
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Domain\bin\Debug\net7.0\SKA.Calculator.Domain.dll
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Domain\bin\Debug\net7.0\SKA.Calculator.Domain.pdb
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Domain\obj\Debug\net7.0\SKA.Calculator.Domain.csproj.AssemblyReference.cache
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Domain\obj\Debug\net7.0\SKA.Calculator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Domain\obj\Debug\net7.0\SKA.Calculator.Domain.AssemblyInfoInputs.cache
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Domain\obj\Debug\net7.0\SKA.Calculator.Domain.AssemblyInfo.cs
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Domain\obj\Debug\net7.0\SKA.Calculator.Domain.csproj.CoreCompileInputs.cache
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Domain\obj\Debug\net7.0\SKA.Calculator.Domain.dll
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Domain\obj\Debug\net7.0\refint\SKA.Calculator.Domain.dll
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Domain\obj\Debug\net7.0\SKA.Calculator.Domain.pdb
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Domain\obj\Debug\net7.0\ref\SKA.Calculator.Domain.dll

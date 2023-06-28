@@ -1,0 +1,17 @@
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Infrastructure\bin\Debug\net7.0\SKA.Calculator.Infrastructure.deps.json
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Infrastructure\bin\Debug\net7.0\SKA.Calculator.Infrastructure.runtimeconfig.json
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Infrastructure\bin\Debug\net7.0\SKA.Calculator.Infrastructure.dll
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Infrastructure\bin\Debug\net7.0\SKA.Calculator.Infrastructure.pdb
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Infrastructure\bin\Debug\net7.0\SKA.Calculator.Domain.dll
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Infrastructure\bin\Debug\net7.0\SKA.Calculator.Domain.pdb
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Infrastructure\obj\Debug\net7.0\SKA.Calculator.Infrastructure.csproj.AssemblyReference.cache
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Infrastructure\obj\Debug\net7.0\SKA.Calculator.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Infrastructure\obj\Debug\net7.0\SKA.Calculator.Infrastructure.AssemblyInfoInputs.cache
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Infrastructure\obj\Debug\net7.0\SKA.Calculator.Infrastructure.AssemblyInfo.cs
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Infrastructure\obj\Debug\net7.0\SKA.Calculator.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Infrastructure\obj\Debug\net7.0\SKA.Calculator.Infrastructure.csproj.CopyComplete
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Infrastructure\obj\Debug\net7.0\SKA.Calculator.Infrastructure.dll
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Infrastructure\obj\Debug\net7.0\refint\SKA.Calculator.Infrastructure.dll
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Infrastructure\obj\Debug\net7.0\SKA.Calculator.Infrastructure.pdb
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Infrastructure\obj\Debug\net7.0\SKA.Calculator.Infrastructure.genruntimeconfig.cache
+C:\Estudos\ska\backend\SKA.Calculator\SKA.Calculator.Infrastructure\obj\Debug\net7.0\ref\SKA.Calculator.Infrastructure.dll
