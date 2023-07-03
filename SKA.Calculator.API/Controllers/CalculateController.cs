@@ -17,7 +17,7 @@ namespace SKA.Calculator.API.Controllers
         }
 
         [HttpPost("[action]")]
-        public async Task<string> Calculate(CalculateModel model) 
+        public async Task<string> Operation(CalculateModel model) 
             => await this.mediator.Send(new CalculateCommand(model));
     }
 }
